@@ -264,4 +264,4 @@ your fake bot
 (?i)^[^\p{L}\p{N}]*the\s+b\p{L}?est\s+h\p{L}?ost\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
 (?i)\bluck\p{L}?y\s+sp\p{L}?ins?\b.*\btop\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b
 (?i)\brapid\s+pl\p{L}?ay\b.*\bhigh\s+rew\p{L}?ar\p{L}?ds?\b
-(?i)^[^\p{L}\p{N}]*(?:!\p{L}\s*)*tr[yý]\s+y\p{L}?ur\s+lu\p{L}?ck\b.*\b\d{1,4}\s*[kKmMbB]\s+to\s+st\p{L}?art\b
+(?i)^\W*(?:![A-Za-z]\s*)*try\s+your\s+luck\b.*?\b\d{1,4}(?:\.\d+)?\s*[kmb]\b.*?\bto\s+start\b
