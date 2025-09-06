@@ -16,7 +16,7 @@ This project is primarily intended for use with the **RuneLite** client plugin *
 
 ---
 
-## Installation
+## Installation (Manual Updates)
 
 1. Open your RuneLite client.
 2. Enable the **Chat Filter** plugin.
@@ -25,6 +25,15 @@ This project is primarily intended for use with the **RuneLite** client plugin *
    - Check **Use Regular Expressions**.
    - Import or copy/paste the regex list into the filter configuration.
 5. Save, and enjoy a cleaner chat box.
+
+## Installation (Automatic Updates)
+
+1. Open your RuneLite client.
+2. Download and enable the **Chat Filter Updater** plugin.
+3. Copy the [`osrs_regex_chat_filter.txt`](./osrs_regex_chat_filter.txt) URL from this repository.
+4. In the Chat Filter plugin settings:
+   - Paste the URL into the **Filter URL** field.
+5. Click Back, and enjoy a cleaner chat box.
 
 ---
 
