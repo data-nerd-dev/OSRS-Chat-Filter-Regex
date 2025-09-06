@@ -29,11 +29,12 @@ This project is primarily intended for use with the **RuneLite** client plugin *
 ## Installation (Automatic Updates)
 
 1. Open your RuneLite client.
-2. Download and enable the **Chat Filter Updater** plugin.
-3. Copy the regex file URL: [`osrs_regex_chat_filter.txt`](./osrs_regex_chat_filter.txt)
-4. In the Chat Filter plugin settings:
+2. Enable the **Chat Filter** plugin.
+3. Download and enable the **Chat Filter Updater** plugin.
+4. Copy the regex file URL: [`osrs_regex_chat_filter.txt`](./osrs_regex_chat_filter.txt)
+5. In the Chat Filter plugin settings:
    - Paste the URL into the **Filter URL** field.
-5. Click Back, and enjoy a cleaner chat box.
+6. Click Back, and enjoy a cleaner chat box.
 
 ---
 
