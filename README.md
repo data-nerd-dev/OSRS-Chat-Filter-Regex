@@ -1,0 +1,1 @@
+# OSRS-Chat-Filter-Regex
