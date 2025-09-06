@@ -258,3 +258,5 @@ your fake bot
 (?i)\bverified\s+gam\p{L}\b.*\bplay\s+and\s+win\b
 (?i)\bwin\s+\p{L}{2,}\s+here\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
 (?i)\bjackp\p{L}t\b
+(?i)\bhigh\p{L}?est\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
+(?i)\bslots?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
