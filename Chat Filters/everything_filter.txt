@@ -249,7 +249,7 @@ your fake bot
 ^(?:[\p{L}\p{N}][\p{L}\p{N}_ -]{0,11})\s+got\s+pa\p{L}d\s+\d{1,4}\s*[kKmMbB]\b
 ^(?:[\p{L}\p{N}][\p{L}\p{N}_ -]{0,11})\s+pa\p{L}d\s+\d{1,4}\s*[kKmMbB]\b
 \d{3,4}\s*[kK]\s*or\s*\d{2,4}\s*[mM]\s+for\s+(playing|joining|participating)
-^the\s+person\s+[\w-]{1,12}\s+(?:put\s+\d{1,4}(?:\.\d+)?\s*[kKmMbB]|i\s+didn[’']?t\s+get\s+it\s+right|had\s+the\s+prize\s+\d{1,4}(?:\.\d+)?\s*[kKmMbB]|yes,?\s+i\s+accept\.?\s+\d{1,4}(?:\.\d+)?\s*[kKmMbB])\b
+(?i)^the\s+person\s+[\w-]{1,12}\s+(?:put\s+\d{1,4}(?:\.\d+)?\s*[kmb]|i\s+didn[’']?t\s+get\s+it\s+right|had\s+the\s+prize\s+\d{1,4}(?:\.\d+)?\s*[kmb]|yes,?\s*i\s*accept\.?\s+\d{1,4}(?:\.\d+)?\s*[kmb])\b
 ^[\w-]{1,12}\s+add[eé]d\s+\d{1,4}(?:\.\d+)?\s*[kKmMbB]\s+to\s+the\s+p[oö]t\b
 \b\d{1,3}\s*%\s+of\s+od+d[z2]s?\s+f[öo]r(?:\s+[\w-]{1,12})?\b
 \bverified\s*host\b.*\bwins?\b
