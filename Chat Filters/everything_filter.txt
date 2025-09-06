@@ -248,3 +248,4 @@ your fake bot
 ^(?:[\p{L}\p{N}][\p{L}\p{N}_ -]{0,11})\s+r\p{L}ll\s+\d{1,3}\b.*\b(victor\p{L}*|win\p{L}*|at\s+y\p{L}ur\s+f\p{L}eet)\b.*\d{1,4}\s*[kKmMbB]\b
 ^(?:[\p{L}\p{N}][\p{L}\p{N}_ -]{0,11})\s+got\s+pa\p{L}d\s+\d{1,4}\s*[kKmMbB]\b
 ^(?:[\p{L}\p{N}][\p{L}\p{N}_ -]{0,11})\s+pa\p{L}d\s+\d{1,4}\s*[kKmMbB]\b
+\d{3,4}\s*[kK]\s*or\s*\d{2,4}\s*[mM]\s+for\s+(playing|joining|participating)

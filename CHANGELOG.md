@@ -5,18 +5,6 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 
 ---
 
-## [YYYY-MM-DD] - Version X.X.X
+## [2025-09-06] - Version 1.0.1
 ### Added
-- 
-
-### Changed
-- 
-
-### Removed
-- 
-
-### Fixed
-- 
-
-### Credits
-- 
+- Regex to block giveaway/lure messages offering large sums (e.g., `1000K or 600M for playing`).
