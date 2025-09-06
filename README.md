@@ -57,13 +57,6 @@ Please ensure new expressions:
 
 ---
 
-## Change Log
-
-All updates and community attributions are tracked in [`CHANGELOG.md`](./CHANGELOG.md).  
-This helps credit contributors for new detections and makes it easy to follow the evolution of the filter list.
-
----
-
 ## Disclaimer
 
 - This project is **not affiliated with Jagex, RuneScape, or RuneLite**.  
