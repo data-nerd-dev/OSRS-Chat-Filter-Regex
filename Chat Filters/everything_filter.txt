@@ -260,3 +260,5 @@ your fake bot
 (?i)\bjackp\p{L}t\b
 (?i)\bhigh\p{L}?est\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
 (?i)\bslots?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
+(?i)\bluck\p{L}?y\s+sp\p{L}?ins?\b.*\btop\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b
+(?i)\brapid\s+pl\p{L}?ay\b.*\bhigh\s+rew\p{L}?ar\p{L}?ds?\b
