@@ -260,7 +260,8 @@ your fake bot
 (?i)\bjackp\p{L}t\b
 (?i)\bhigh\p{L}?est\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
 (?i)\bslots?\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
-(?i)^[^\p{L}\p{N}]*the\s+#?\d+\s+mach\p{L}?ine!?\.?\s+\d{1,4}\s*[kKmMbB]\s+to\s+try\s+here\b
+(?i)^[^\p{L}\p{N}]*the\s+#?\d+\s+ma?ch[iIl1\|!][n][e3]!?\.?\s+\d{1,4}\s*[kKmMbB]\s+to\s+tr[yý]\s+here\b
 (?i)^[^\p{L}\p{N}]*the\s+b\p{L}?est\s+h\p{L}?ost\b.*\b\d{1,4}\s*[kKmMbB]\s+min\b
 (?i)\bluck\p{L}?y\s+sp\p{L}?ins?\b.*\btop\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b
 (?i)\brapid\s+pl\p{L}?ay\b.*\bhigh\s+rew\p{L}?ar\p{L}?ds?\b
+(?i)^[^\p{L}\p{N}]*try\s+y\p{L}?ur\s+luck\b.*\b\d{1,4}\s*[kKmMbB]\s+to\s+st\p{L}?art\b
