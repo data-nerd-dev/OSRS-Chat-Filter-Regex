@@ -3,7 +3,7 @@ name: Regex Filter Update Request
 about: Report a new spam message, update an existing regex, or suggest maintenance
   for the OSRS Chat Filter list.
 title: "[Regex Update] <short summary of the issue>"
-labels: duplicate, enhancement, wontfix
+labels: ''
 assignees: ''
 
 ---
