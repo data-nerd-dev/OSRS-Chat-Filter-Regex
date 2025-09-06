@@ -24,6 +24,7 @@ This project is primarily intended for use with the **RuneLite** client plugin *
 4. In the Chat Filter plugin settings:
    - Check **Use Regular Expressions**.
    - Import or copy/paste the regex list into the filter configuration.
+   - Enable **Strip accents**
 5. Save, and enjoy a cleaner chat box.
 
 ## Installation (Automatic Updates)
@@ -34,6 +35,7 @@ This project is primarily intended for use with the **RuneLite** client plugin *
 4. Copy the regex file URL: [`osrs_regex_chat_filter.txt`](./osrs_regex_chat_filter.txt)
 5. In the Chat Filter plugin settings:
    - Paste the URL into the **Filter URL** field.
+   - Enable **Strip accents**
 6. Click Back, and enjoy a cleaner chat box.
 
 ---
