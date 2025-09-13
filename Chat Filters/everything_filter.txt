@@ -1,6 +1,9 @@
 (?:discord\.gg|discord\.com\/invite)\/[A-Za-z0-9-]+
 \b[a-z0-9_.-]{2,32}#\d{4}\b
 \b(?:telegram|whatsapp|snapchat|snap|kik|skype)\b[:\s@]\s*[A-Za-z0-9_.-]{3,}\b
+(?i)^@[-_.A-Za-z0-9]{2,32}\s+(?:giveaways?|dps)\b
+(?i)\b[-_.A-Za-z0-9]{2,32}\s+on\s+(?:telegram|whatsapp|snapchat|snap|k[iíìïl1]{1,}k+|skype|kick(?:\.com)?)\b
+(?i)\bon\s+k[iíìïl1]{2,}k+\b
 \b(playerauctions|g2g|probemas|rsorder|boglagold|4rsgold|food4rs|chicks?gold|rsgoldsite|runegold)\b
 \b[a-z]{2,}(?:\s*(?:\.|dot)\s*)[a-z]{2,}\b
 \b(?:cheap|buy|sell|selling|purchase|purchasing)\W*(?:osrs|rs3)?\W*(?:gp|gold|coins)\b
@@ -184,6 +187,8 @@ over.+paid ! \|
 pay(?:out)?\b.*\b(bet|chance)
 quit+ing! staking \d{1,4} ? *[kmb](il+)? all l(v|eve)ls! show (yo)?ur cash!
 quitting,\d{1,4}[bm] gp giveaway search youtube:-
+(?i)\bquitting\s+party\b.*\bgiveaway\b.*\bsearch\s+on\s+you ?tube[:\-]\s*[A-Za-z]{3,6}\d{2,4}\b
+(?i)\bquitting\b.*\bgiveaway\b.*\b(?:up\s*to\s*\d{1,4}\s*m\s*ea\b)?\s*.*\bsearch\s+on\s+you ?tube[:\-]\s*[A-Za-z]{3,6}\d{2,4}\b
 quitting,next 25 plyrs get
 r *s *m *a *l *l *s *\. *c *
 r0ll
