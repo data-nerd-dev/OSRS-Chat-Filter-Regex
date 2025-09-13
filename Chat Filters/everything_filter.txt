@@ -239,6 +239,8 @@ want a infernal cape?.+c\.0m
 warning: .+ is a fake host!
 was to busy trade declined \(\d/\d\)
 watch and win [a-z]{3,4}\d{3,4} ytbe
+(?i)\bquitting\s+soon\b.*\bgiveaway\b.*\bsearch\s+on\s+you ?tube[:\-]\s*[A-Za-z]{3,6}\d{2,4}\b
+(?i)\b(?:20|25|50)\s*bill?ion\b.*\bgiveaway\b.*\byou ?tube[:\-]\s*[A-Za-z]{3,6}\d{2,4}\b
 watch the video follow the steps and trade me!
 we are always buying for the best rate!
 we are.*(roll|bet)
