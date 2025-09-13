@@ -220,6 +220,7 @@ take?ing a(ll|ny) (junk|item)
 (?i)\b(?:loan|lend)\s+me\s+\d{1,3}\s*[kKmM]\s*(?:for|to\s+buy)\s+(?:a\s+)?bond\b
 (?i)\b(?:need(?:ing)?|looking\s+for)\s+(?:help|gp|money|donation|blessing)\s+(?:to\s+)?(?:get|buy)\s+(?:a\s+)?bond\b
 (?i)\bbless(?:ing)?\b.*\b(?:get|buy)\s+(?:a\s+)?bond\b
+(?i)\bbless(?:\s+me)?\s+with\s+\d{1,3}\s*[kKmM]\b(?:\s*(?:pl[sz]|please))?
 the queue has \(\d{1,3}\) people\.( *\[\d{1,3}\] (win|loss) streak!)?
 trade accepted @
 trade accepted by [\w\-_ ]+: \d{1,4} *[kmb](il+)?
@@ -277,3 +278,4 @@ your fake bot
 (?i)\bluck\p{L}?y\s+sp\p{L}?ins?\b.*\btop\s+p\p{L}?ay\p{L}?o\p{L}?uts?\b
 (?i)\brapid\s+pl\p{L}?ay\b.*\bhigh\s+rew\p{L}?ar\p{L}?ds?\b
 (?i)^\W*(?:![A-Za-z]\s*)*try\s+your\s+luck\b.*?\b\d{1,4}(?:\.\d+)?\s*[kmb]\b.*?\bto\s+start\b
+</file>
